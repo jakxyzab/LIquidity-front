@@ -30,7 +30,7 @@ Once rebased, the ferum module either gets published under the same account if b
 High level instructions for releasing a devnet branch: 
 
 1. Make sure all unit tests are passing! ✅
-1. Update your aptos CLI and make sure you have [latest](https://github.com/aptos-labs/aptos-core/releases/); usually breaks if you don't! Run `aptos --version` to find out which one you have and compare to the latest release.
+1. Update your aptos CLI 
 2. `git checkout main; git pull --rebase` to get latest commits on the main branch.
 3. `git checkout devnet; git rebase main devnet` to rebase all commits from main to devnet
 4. Create a new profile via `ts-node cli/src/index.ts create-profile -n ferum-std-devnet` or use an existing account. 
