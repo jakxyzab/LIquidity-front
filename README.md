@@ -3,9 +3,9 @@
 [![Generic badge](https://img.shields.io/badge/ferum-docs-blue.svg)](https://ferum.gitbook.io/ferum-dex/) ![](https://img.shields.io/discord/1014040797487824896?label=discord) ![](https://img.shields.io/badge/liquidity-high-brightgreen)
 
 
-# Ferum
+# Flow8
 
-Ferum is an on-chain order book offering unprecedented control to liquidity providers on [Aptos Ecosystem](https://twitter.com/AptosLabs)! 
+Flo8 is an on-chain order book offering unprecedented control to liquidity providers on [Aptos Ecosystem](https://twitter.com/AptosLabs)! 
 For documentation on getting-started, better understanding of the architecture, and partnerships, please refer 
 to [Ferum's Official Documentation](https://ferum.gitbook.io/ferum-dex/). 
 
