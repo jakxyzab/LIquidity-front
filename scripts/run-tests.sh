@@ -2,3 +2,6 @@
 
 ts-node cli/src/index.ts test-ferum -m contract
 npm test --prefix cli
+
+
+#shs-sshed into the inference
